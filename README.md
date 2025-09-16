@@ -13,6 +13,9 @@
   ```
   Run text_classification.txt to train and test Model.
 
+  ## Data
+  https://drive.google.com/drive/folders/1FPS3p921718pQf0ft2V54Yat2QtJB49M?usp=drive_link
+
   ## Result 
 
 | <img src="https://github.com/user-attachments/assets/0cf45fbe-b706-4d2c-8839-4e65b324a352" alt="Loss" width="450" height="450"> | 
